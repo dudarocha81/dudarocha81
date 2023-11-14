@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! I'm Eduarda
 
-<!--
-**dudarocha81/dudarocha81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/EduardaRocha-5958a61a9/)](https://br.linkedin.com/in/eduarda-rocha-6b784a259/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@eduardarocha.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rochaeduarda98133@gmail.com)](mailto:rochaeduarda98133@gmail.com)
 
-Here are some ideas to get you started:
+( C  | Javascript | HTML | CSS) 🚀
+- 🎓 Computer Science Student @ [UERN](https://portal.uern.br/)
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  
+[![Eduarda top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dudarocha81&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
