@@ -13,3 +13,12 @@
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
 
+<div style="display: inline_block"><br/>
+    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+    style="height: 32px"/>
+    <img alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="height: 32px;"/>
+    <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+    style="height: 32px"/>
+    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"
+    style="height: 34px"/>
+</div>
