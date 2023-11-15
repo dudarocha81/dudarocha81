@@ -5,6 +5,7 @@
 <div align="right">
   
 [![Eduarda top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dudarocha81&theme=blue-white)](https://github.com/dudarocha81/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
   
  </div>
  
