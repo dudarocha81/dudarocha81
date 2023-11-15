@@ -4,8 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-contato@eduardarocha.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rochaeduarda98133@gmail.com)](mailto:rochaeduarda98133@gmail.com)
 <div align="right">
   
-[![Eduarda top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dudarocha81&theme=blue-white)](https://github.com/dudarocha81/github-readme-stats)
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudarocha81&layout=donut-vertical)](https://github.com/dudarocha81/github-readme-stats)
   
  </div>
  
